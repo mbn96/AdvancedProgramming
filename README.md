@@ -1,6 +1,6 @@
 # Advanced Programming - Practice Problem Solutions
 
-This repository contains solutions to practice problems for the Advanced Programming course. The solutions cover various topics and are implemented using C++.
+This repository contains solutions to practice problems for the Advanced Programming course.
 
 ## 📂 Repository Structure
 
